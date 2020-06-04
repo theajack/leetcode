@@ -4,9 +4,9 @@ leetcode解题记录，解题全部使用js编写，欢迎[交流](https://githu
 
 ## 解题列表
 
-1. [二进制数1的最大间距](/theajack/leetcode/blob/master/binary-gap.md)
+1. [二进制数1的最大间距](binary-gap.md)
 2. [链表倒数第k个元素](list-last-k.md)
-3. [二叉树的后序遍历](/blob/master/binary-tree-postorder-traversal.md)
+3. [二叉树的后序遍历](binary-tree-postorder-traversal.md)
 
 ## 友情链接
 
