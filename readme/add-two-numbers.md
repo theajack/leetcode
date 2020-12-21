@@ -28,17 +28,14 @@
 
 ```javascript
 var addTwoNumbers = function (l1, l2) {
-    let p1 = l1,
-        p2 = l2;
+    let p1 = l1, p2 = l2;
     let result = new ListNode(0, null);
     let head = result;
     let add = false;
     while (p1 || p2) {
         if (!p1) { p1 = new ListNode(0, null); }
         if (!p2) { p2 = new ListNode(0, null); }
-        let n1 = p1 ? p1.val : 0;
-        let n2 = p2 ? p2.val : 0;
-        let sum = n1 + n2 + (add ? 1 : 0);
+        let sum = p1.val + p2.val + (add ? 1 : 0);
         add = false;
         if (sum >= 10) {
             add = true;
