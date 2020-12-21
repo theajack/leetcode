@@ -58,4 +58,5 @@ var lengthOfLongestSubstring = function(s) {
 ```
 
 事件复杂度： O(n);
+
 空间复杂度： O(∣Σ∣)   ∣Σ∣ 表示字符集的大小 
