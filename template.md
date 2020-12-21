@@ -1,6 +1,6 @@
 ## 题目描述
 
-[原题地址](https://leetcode-cn.com/problems/binary-gap/)
+[原题地址](https://leetcode-cn.com/problems/xxx)
 
 
 
@@ -12,13 +12,11 @@
 
 ## 解题
 
-### 思路
-
-### 代码
-
-
+### 1. xxx
+   
 ```javascript
 
 ```
 
-### 时空复杂度
+事件复杂度： 
+空间复杂度： 
