@@ -1,6 +1,6 @@
 ## 题目描述
 
-[原题地址](https://leetcode-cn.com/problems/xxx)
+[原题地址](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
 
 给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
 
