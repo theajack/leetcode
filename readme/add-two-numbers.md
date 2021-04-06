@@ -56,6 +56,6 @@ var addTwoNumbers = function (l1, l2) {
 };
 ```
 
-事件复杂度： O(max(m,n))
+时间复杂度： O(max(m,n))
 
 空间复杂度： O(max(m,n))

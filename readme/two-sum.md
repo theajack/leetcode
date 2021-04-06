@@ -35,7 +35,7 @@ var twoSum = function(nums, target) {
 };
 ```
 
-事件复杂度： O(n^2)
+时间复杂度： O(n^2)
 空间复杂度： O(1)
 
 ### 2. 使用字典存储
@@ -59,7 +59,7 @@ var twoSum = function(nums, target) {
 };
 ```
 
-事件复杂度： O(n)
+时间复杂度： O(n)
 
 空间复杂度： O(n)
 
